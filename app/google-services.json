@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "358697710578",
+    "firebase_url": "https://minidoubt-b46b4-default-rtdb.firebaseio.com",
+    "project_id": "minidoubt-b46b4",
+    "storage_bucket": "minidoubt-b46b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358697710578:android:a8bf4db0aa4654c255316b",
+        "android_client_info": {
+          "package_name": "com.company.minidoubt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358697710578-0icsq3tkp2sb0ngjmr2rhucb217l4t4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4Cdj-9CGbGDFpYxmp4gj0im7K2YdRpik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358697710578-0icsq3tkp2sb0ngjmr2rhucb217l4t4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
